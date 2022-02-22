@@ -1,0 +1,419 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good womans champion, or, A defence for the weaker vessell being fit for widdowes, wives, maidens, or others to read or heare : wherein is vindicated the bitter reproaches, scandalous writings of some fantastick men against poor, harmlesse women and maides, with a carefull wives good counsell to a carelesse, bad husband / by I.A.</title>
+            <author>I. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26718</idno>
+            <idno type="STC">Wing A9A</idno>
+            <idno type="STC">ESTC R11216</idno>
+            <idno type="EEBO-CITATION">11822447</idno>
+            <idno type="OCLC">ocm 11822447</idno>
+            <idno type="VID">49599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49599)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 45:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good womans champion, or, A defence for the weaker vessell being fit for widdowes, wives, maidens, or others to read or heare : wherein is vindicated the bitter reproaches, scandalous writings of some fantastick men against poor, harmlesse women and maides, with a carefull wives good counsell to a carelesse, bad husband / by I.A.</title>
+                  <author>I. A.</author>
+               </titleStmt>
+               <extent>[2], 6, [10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Feminism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49599:1" rendition="simple:additions"/>
+            <pb facs="tcp:49599:1"/>
+            <p>THE Good VVomans Champion Or, A defence for the weaker Veſſell, being fit for Widdowes, Wives, Maidens, or others, to read or heare.</p>
+            <p>Wherein is vindicated the bitter reproaches, a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſcandalous writings of ſome fantaſtick men, againſt poor<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> harmleſſe Women, and Maides.</p>
+            <p>With a carefull Wives good Counſell to a careleſſe bad Husband.</p>
+            <p>
+               <hi>By I. A.</hi>
+            </p>
+            <figure/>
+            <p>Printed at <hi>London</hi> for <hi>Francis Grove,</hi> and are to be ſold at his Shop neare the Sarazens Head on Snow Hill.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49599:2"/>
+            <head>To all the good women in <hi>England</hi> of what degree ſoever.</head>
+            <lg>
+               <l>MAdam, or Miſtris, Dame, or courteous Maid</l>
+               <l>Your vertues here in brief I have diſplay'd;</l>
+               <l>If you be pleas'd theſe lines to over-looke,</l>
+               <l>For whoſe ſweet ſakes I pend this little Book,</l>
+               <l>In ſpight of envie, who ſo harſh did write,</l>
+               <l>Seeking for to eclipſe your glory quite;</l>
+               <l>But you, like ſilver <hi>Cinthia</hi> doe appeare</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto your <hi>Phoebus,</hi> uſher of the yeare;</l>
+               <l>Or like thoſe golden Stars ſo bright that ſhines,</l>
+               <l>Which ſpacious Heaven in its Orbe combines;</l>
+               <l>To you, faire Soules, this Work I dedicate,</l>
+               <l>Becauſe that malice, vertue ſtill doth hate.</l>
+               <l>I am no Pimp, nor Champion for a Whore,</l>
+               <l>To uſher Puncks, or in a Taverne reare,</l>
+               <l>The wrongs of all good women I would right,</l>
+               <l>I am your Champion, and for you ile fight;</l>
+               <l>My Sword and Pen your honours ſhall maintains,</l>
+               <l>Saluting you, I reſt, yet ſtill remaine</l>
+            </lg>
+            <closer>
+               <signed>The admirer of your vertues, <hi>I. A.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49599:2"/>
+            <head>The good Womans Champion, <hi>Or,</hi> A defence for the weaker Veſſell.</head>
+            <p>GEntle Reader, or Hearer, I know it is a hard taske to pleaſe all fancies, and I am as certaine there are many ſnarling criticks in this age, that willout of their malicious wiſ<g ref="char:EOLhyphen"/>domes give a harſh cenſure on this enſuing Subject; which if they do I care the leſſe, be<g ref="char:EOLhyphen"/>cauſe the matter which I write of is honeſt, and in defence of harmleſſe and vertuous Women.</p>
+            <p>Therefore when I conſidered the manifold aſperſions, bitter taunts, envious revilings, ſlanderous raylings, and malignant writings of ſome inveterate ill-bred Spirits (which would be accounted men) againſt poore harm<g ref="char:EOLhyphen"/>leſſe, ſilly, and weake women, who are not a<g ref="char:EOLhyphen"/>ble with that little péce of fleſh, called their Tongue, (which is their chiefe defence or weapon) to expreſſe, or otherwiſe to vindicate themſelves, in writing the injuries and ſcan<g ref="char:EOLhyphen"/>dals daily divulged abroad in fantaſtick Pam<g ref="char:EOLhyphen"/>phlets &amp; Verſes, as the <hi>Bear-baiting of women, the Parliament of Women, the Woman-hater, the Goſſips meeting, the Crab-tree Lecture, Vi<g ref="char:EOLhyphen"/>negar and Muſtard,</hi> and I know not what; for all theſe, and more are ſpightfully fomented
+<pb n="2" facs="tcp:49599:3"/>againſt that noble Sex, of matchleſſe &amp; imma<g ref="char:EOLhyphen"/>culate creatures, whoſe deſerved worth to il<g ref="char:EOLhyphen"/>luſtrate and ſet forth I cannot, either with ſpeech, or in writing.</p>
+            <p>Thoſe men I ſay, (whoſe tongues are like a double-edged ſword, their pens made of Gooſe<g ref="char:EOLhyphen"/>quils, their inke of Galls, and their braines adled, who hath neither charity wiſdom, or mo<g ref="char:EOLhyphen"/>deſty) they ſurely forget that ever they came of a woman, or had a mother, who (under God) firſt gave them life, nouriſhed them in her body, brought them into the world with paine, and like the Pelican, fed them with her own blood, and bred them with care &amp; induſtry ſuch men may very fitly be compared to the Viper, that de<g ref="char:EOLhyphen"/>ſtroyeth the wombe that bare them, and we all doe know that ingratitude is a Monſter, and ſhe which brought forth ſuch an abortive birth into the world was ſurely delivered before her time.</p>
+            <p>A woman was the moſt beautifull and rare péce of Architecture that ever was erected upon the face of the earth, and framed by the beſt workman in the world; for when ſhe was firſt created or borne, ſhe was not a childe or infant but a perfect and compleat woman; nei<g ref="char:EOLhyphen"/>ther was ſhe made of baſe earth or clay as man was, but of the pureſt of her Husbands fleſh and blood, being a rib taken out of his ſide, and next of all to his heart, and therefore (in my opinion) it is againſt nature, nay againſt the Law of God, to abuſe or hurt the ſame, being their own fleſh and blood, as too many do, which
+<pb n="3" facs="tcp:49599:3" rendition="simple:additions"/>is much to be lamented; but herein the old pro<g ref="char:EOLhyphen"/>verb is truly verified, that <hi>the weakeſt ſtill goes to the walls, and a low hedge is ſoon ſtept over.</hi>
+            </p>
+            <p>Therefore you ſatyricall Antagoniſts, and others, that ſo bitterly enveigh againſt poore women, if you would be pleaſed but to view the ſacred Scriptures, where you may find ſuffici<g ref="char:EOLhyphen"/>ent proofe that they ought to have more due re<g ref="char:EOLhyphen"/>ſpect allotted them, then ſome of you will ac<g ref="char:EOLhyphen"/>knowledge, or profeſſe they ſhould enjoy; and although man be the head, and is (or ought to be) endued with more wiſdome and ſtrength then a weak woman, yet he ought not to tri<g ref="char:EOLhyphen"/>umph over, or injure ſo harmleſſe a Soul, with<g ref="char:EOLhyphen"/>out whom man by no means can ſubſiſt; for did not God ſay of <hi>Adam</hi> in the creation, <hi>It is not good for man to be alone;</hi> And further, God ſaith, <hi>I will make him an Helper meet for him; therefore ſhall a man leave his father, and mo<g ref="char:EOLhyphen"/>ther and ſhall cleave unto his wife, and they ſhall be one fleſh.</hi> Thus you may perceive how ne<g ref="char:EOLhyphen"/>ceſſary is the ſwét ſociety and company of a vertuous woman to her Husband, for ſhe is his helper at all aſſaies, being carefull of her family, képing him neat and decent both in woollen, linnon, and other neceſſaries, cleanly in dreſſing his dyet, and a loving Nurſe to him both in ſickneſſe and health; wherefore a man ought to love his wife above all the world, they being (as the Lord ſaith) one fleſh.</p>
+            <p>If you will heare what St. <hi>Paul</hi> ſaith of a woman, it is thus; <hi>A woman is the glory of
+<pb n="4" facs="tcp:49599:4"/>man.</hi> And <hi>Solomon</hi> (the wiſeſt of men) ſaith, <hi>A vertuous woman is a crowne to her Husband;</hi> now if a woman be a glory to her husband, how is that man bleſt which enjoyeth ſuch a wife, who doth crown his heart with variety of content; ſhe, like the fruitfull Vine bringeth forth ſwét children (which are the bleſſings of God) being the fruit of their owne loynes, who preſerveth (if the Lord pleaſe) their Fa<g ref="char:EOLhyphen"/>thers name to the end of the world by their po<g ref="char:EOLhyphen"/>ſterity: And the wiſe man further ſaith, <hi>Who ſo findeth ſuch a wiſe, obtaineth favour of the Lord.</hi> O ten thouſand times happy is that man, that with a wife can obtain ſuch heaven<g ref="char:EOLhyphen"/>ly favour; but <hi>Solomon</hi> further addeth, that <hi>the price of a vertuous woman is far above Ru<g ref="char:EOLhyphen"/>bies, and let her be as the loving Hind, and plea<g ref="char:EOLhyphen"/>ſant Roe, and be thou raviſht alwaies with her love.</hi>
+            </p>
+            <p>It is the common cuſtome now adaies a<g ref="char:EOLhyphen"/>mong moſt men to hearken after wives with a great portion, &amp; rich friends, never regarding how ſhe is qualified, or whether ſhe be addict<g ref="char:EOLhyphen"/>ed to vertue or vice, but wealth is the chiefe mark at which they ayme, &amp; ſometimes they hit the white they ſhoot at, yet come hom by wéping croſſe; but a poore woman, be ſhe never ſo ver<g ref="char:EOLhyphen"/>tuous, is not regarded with them; but you have heard her price, and how high a rate the wiſe man doth velue her at; yet for all this (though a good woman be as loving as the Hind, and pleaſant as the Roe to her Husband, ſéking by all means poſſible ſhe can to pleaſe him, ei<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:49599:4"/>with kinde and loving ſpéches, or plea<g ref="char:EOLhyphen"/>ſant and modeſt behaviour) there are ſome froward men (like churliſh <hi>Naball</hi>) that are never contented with whatſoever ſhe doth or ſayes, when a kind and loving husband would think himſelfe bleſt to enioy ſuch a treaſure, &amp; be raviſht with the love of ſuch a wife.</p>
+            <p>If you will be pleaſed to heare what St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> doth ſay for wives, it is thus; <hi>Husbands, dwell with them according to knowledge, gi<g ref="char:EOLhyphen"/>ving honour unto the wife, as unto the weaker veſſell, being heires together of the grace of life, that your prayers be not hindered.</hi>
+            </p>
+            <p>Theſe words are to ſhew Husbands, that there ſhould be a kinde of loving duty by them allowed to their wives, and that they ſhould live and dwell together in civill and diſcreet know<g ref="char:EOLhyphen"/>ledge, and not with wrangling, diſcord, and en<g ref="char:EOLhyphen"/>vie; for a wiſe man will give honour to his wife above all women for many reſpects; firſt, becauſe ſhe is his wife (and it may be hath horne him children) then as ſhe is a woman, and a Chriſtian; likewiſe he is to beare with her imbicilities (if ſhe have any) becauſe ſhe indeed is the weaker Veſſell; for God hath ioyned them together as one body, that they ſhould both be heires to inherit the grace of e<g ref="char:EOLhyphen"/>ternall life; for where man and wife doth live in unity and peace, their prayers no doubt ſhall be heard.</p>
+            <p>St. <hi>Paul</hi> writing to the <hi>Epheſians</hi> ſaith thus; <hi>Husbands, love your wives, even as Chriſt alſo lo<g ref="char:EOLhyphen"/>ved the Church, and gave himſelfe for it.</hi> And in
+<pb n="6" facs="tcp:49599:5"/>another place he uttereth theſe words; <hi>Huſ<g ref="char:EOLhyphen"/>bands, love your wives, &amp; be not bitter againſt them.</hi> I could heartily deſire that ſome unkind husbands would take notice, and hearken to thoſe words of the bleſſed Apoſtle, with what a tye he doth perſwade and exhort them to love their wives, which would almoſt move a ſtone to heare; and I could with them to mark with reverence, and to take it to their heart of whom he ſpeaketh, and his compariſon, which is the Church; for he coniureth them by no leſſe then Chriſt, the bleſſed Son of God, our Sa<g ref="char:EOLhyphen"/>viour and Redeemer, who gave his life for us, to redeeme our ſinfull Soules from Hell and damnation; this is a deep, yet a ſweet per<g ref="char:EOLhyphen"/>ſwaſion to love. The Apoſtle alſo exhorteth Husbands not to be bitter to their wives but there are too many now adayes that will not hearken to his counſell, but I will uſe the words of <hi>Solomon,</hi> who ſayeth thus; <hi>A conten<g ref="char:EOLhyphen"/>tious man is apt to kindle ſtrife, and hatred ſtir<g ref="char:EOLhyphen"/>reth up contentions, but love covereth all treſ<g ref="char:EOLhyphen"/>paſſes.</hi>
+            </p>
+            <p>This ſaying of the wiſe man methinkes ſhould quell thoſe fooliſh mens follies which utter and write ſuch invectives, and fantaſtico revilings, taunts, and ieſts againſt women, for theſe are thoſe wicked ſpirits the Devills Agents, which ſoweth diſcord, and breedeth contentions, kindling the coles of ſtrife, ha<g ref="char:EOLhyphen"/>tred, and diſdaine in divers families betwixt man and wife never perſwading to peace, love or unity, which ſhould hide and cover all do<g ref="char:EOLhyphen"/>meſtick
+<pb facs="tcp:49599:5"/>iarrs or treſpaſſes; and they make as though a woman were but as a meere cipher, and ſtood for nothing, but let them know thus much, that a woman is worthy of a far better reſpect, for ſhe is the veſſell of eternity, and is (or ought to be) the cloſet or cabinet of a mans heart, his <hi>ſummum bonum,</hi> or his All in all, his chiefeſt Secretary, or his ſecond ſelfe; for (as it is ſaid) <hi>they are one fleſh,</hi> yet ſome ſnarling criticks there are who wil not bluſh to ſay, that unto a woman we ſhould reveale no ſecret, or that they hardly ever hoard or read of a diſ<g ref="char:EOLhyphen"/>crét, vertuous, or wiſe woman. To anſwer them in brief amongſt many, let them but looke into the firſt of <hi>Samuel,</hi> where they may finde it written thus:</p>
+            <p>Abigall <hi>was a woman of good underſtanding, but her husband</hi> Naball <hi>was churliſh, and evill in his doings.</hi> Now, if ſhe had not bin a woman of wiſdome &amp; underſtanding, <hi>David</hi> had ſlaine her husband and every one of his ſervants, (for his Family was great) which <hi>Abigall,</hi> for her wiſdome, <hi>David</hi> did marry after her husbands death. Alſo in the ſecond of <hi>Samuel</hi> you may read, how a wiſe woman ſaved the City from deſtruction when it was beſieged by <hi>Joab.</hi> Likewiſe, did not <hi>Holefurnes</hi> and his ſervants marvell at the wiſdome of <hi>Judeth,</hi> and ſhe af<g ref="char:EOLhyphen"/>terwards ſaved the City (when he had beſied<g ref="char:EOLhyphen"/>ged it, by cutting off his head. Alſo, <hi>Boaz</hi> ſaid to <hi>Ruth, All the city of my people doth know that thou art a vertuous woman.</hi> And was not <hi>Suſanna</hi> a vertuous woman, that would rather ſuffer death then yeeld to the vitious and wic<g ref="char:EOLhyphen"/>ked
+<pb facs="tcp:49599:6"/>Elders, Many more proofes may be obiect<g ref="char:EOLhyphen"/>ed againſt thoſe envious back-biters, and ſtan<g ref="char:EOLhyphen"/>derers of that worthy Sex; for a woman was the veſſell of the Holy Ghoſt, which nouriſhed in her wombe, and brought forth into the world (the Redéemer of Mankinde) our bleſſed Sa<g ref="char:EOLhyphen"/>viour Chriſt Ieſus; Alſo, did not divers wo<g ref="char:EOLhyphen"/>men follow Chriſt, and miniſtred unto him, be<g ref="char:EOLhyphen"/>ing preſent at his death? to whom he appeared at his Reſurrection: And did not <hi>Pilates</hi> wife fore-warne her husband to have nothing to doe with Chriſts death?</p>
+            <p>Having thus briefly written of ſome vertu<g ref="char:EOLhyphen"/>ous, good, and diſcréet wives &amp; women, I think it not amiſſe to ſay a little in defence of vertu<g ref="char:EOLhyphen"/>ous Virgins and Maids; In the 22. of <hi>Deut.</hi> it is ſaid, <hi>That they are to be puniſhed that bring an evil name upon a Virgin;</hi> and in 1 <hi>Cor.</hi> 7. it is thus, <hi>If a Virgin marry ſhe hath not ſinned;</hi> and was not <hi>Jepthas</hi> daughter of <hi>Iſraell</hi> a vertu<g ref="char:EOLhyphen"/>ous Virgin, who willingly ſubmitted her ſelfe for a ſacrifice to fulfill her Fathers vow? And did not Chriſt compare the five wiſe Virgins to the kingdome of heaven? But amongſt o<g ref="char:EOLhyphen"/>ther Virgins, me thinks I ſhould not bury in oblivion the memory of our famous Country<g ref="char:EOLhyphen"/>woman, <hi>Elizabeth,</hi> late Quéene of <hi>England.</hi> who for her time was accounted the Phenix of Chriſtendom, and admired for vertue and wiſ<g ref="char:EOLhyphen"/>dome throughout the world; She kept her land in peace, and her forreigne enemies in awe; ſhe was truly religious, for which the Lord e<g ref="char:EOLhyphen"/>ver bleſſed her to her end; and thus much ile <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of her (inſpight of envious detractors) ſhe
+<pb facs="tcp:49599:6"/>dyed a good woman, and a Virgin Queen.</p>
+            <p>Thus have I in brief related ſome paſſages and collections out of the ſacred Scriptures in defence of good, vertuous, and barmleſſe wo<g ref="char:EOLhyphen"/>men, but if there be any that will not beleeve the ſame, let them heare what St. <hi>Paul</hi> ſaith unto them; <hi>Vnbeleevers ſhall not enter into e<g ref="char:EOLhyphen"/>verlaſting reſt.</hi> And now in my opinion it is unchriſtian, uncharitable, and immodeſt, for any man ſo bitterly to enveigh and write a<g ref="char:EOLhyphen"/>gainſt a woman, which naturally he ſhould love, cheriſh, and honour (for many reſpects, as is before ſaid) above all the creatures in this world. I muſt confeſſe that the conditions and humours of ſome fantaſtick men are fickle va<g ref="char:EOLhyphen"/>rious, &amp; unconſtant; they are double tongued, and falſe hearted, they will proteſt, and ſay one thing, and meane another, as too too many good women have found by wofull experience; for when they ſue for love, oh, what diſſembling teares, feigned ſighes, déep proteſtations, ſo<g ref="char:EOLhyphen"/>lemn vowes, large promiſes, and flattering ſpeeches will procéed from their diſſembling lips? now many a gentle and tender-hearted Woman and Maid hath compaſſionated and pittyed their Crocadilian teares, and beléeved their periurd vowes, which oftentimes hath procured their ſorrow; for when ſuch falſe men have obtained their deſires they grow care<g ref="char:EOLhyphen"/>leſſe, and ſlight a woman, ae not worthy of their ſoriety; and for their love, they are requi<g ref="char:EOLhyphen"/>ted with reproaches, harſh language, ſcorne, and diſdaine. But I ſpeake not this in gene<g ref="char:EOLhyphen"/>rall, for I know there are many provident, ho<g ref="char:EOLhyphen"/>neſt,
+<pb facs="tcp:49599:7"/>and loving men, that giveth all due re<g ref="char:EOLhyphen"/>ſpect to their wives, and are carefull of their re<g ref="char:EOLhyphen"/>putation and charge; and I heartily wiſh that the number of ſuch men were greater, for then ſo many good and honeſt women ſhould not féele ſo much griefe, ſorrow, and miſery, as both they and their families doe now ſuſtaine.</p>
+            <p>I could have written more amply both Di<g ref="char:EOLhyphen"/>vine, and Morall, in defence of vertuous wo<g ref="char:EOLhyphen"/>men, but I ſuppoſe theſe few examples will give ſome ſatisfaction to the courteous and af<g ref="char:EOLhyphen"/>fable Reader, hoping none will diſlike, or take exceptions thereat, unleſſe it be thoſe car<g ref="char:EOLhyphen"/>ping criticks before ſpoken of, which hath written ſo bitterly and ſcoffingly againſt the worthy Sex of women; but I could wiſh them to petition for peace, and to make their recantations, and to confeſſe their follies, for thus I ſalute them:
+<q>
+                  <l>Bluſh foule envie, and give o're,</l>
+                  <l>Split your Pens, and write no more,</l>
+                  <l>Silent be, and hold your tongue,</l>
+                  <l>Sue for pardon, (that did wrong</l>
+                  <l>Vertue, goodneſſe, modeſty)</l>
+                  <l>which kinde hearts will not deny.</l>
+               </q>
+            </p>
+         </div>
+         <div type="dialogue">
+            <head>A carefull Wives good counſell to a careleſſe bad Huſ<g ref="char:EOLhyphen"/>band, in a Dialogue.</head>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>GOod counſell ne're is out of date,</l>
+               <l>(Pray Husband heare me ſpeake)</l>
+               <l>But if to me you'le give no eare,</l>
+               <l>I thinke my heart will breake;</l>
+               <l>Such carefull thoughts poſſeſſe my minde,</l>
+               <l>and lodgeth in my breſt<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:49599:7"/>
+               <l>My head is troubled night and day</l>
+               <l>that I can take no reſt.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>If you will needs turne Counſellor,</l>
+               <l>then at the Bar go plead,</l>
+               <l>I do not like this Lecture well</l>
+               <l>that you to me do read;</l>
+               <l>But if your heart and head doth ake</l>
+               <l>you may lye down to ſleep,</l>
+               <l>And there I ſhall not heare you prate,</l>
+               <l>nor ſuch a coile to keep.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>You know how every one complaines,</l>
+               <l>the world is grown ſo bad,</l>
+               <l>All trading now is quite decay'd,</l>
+               <l>no work is to be had;</l>
+               <l>And all proviſion is grown deare,</l>
+               <l>bread, butter, cheeſe, and meat,</l>
+               <l>Fiſh, roots, ſope, candles, oat-meale, coales,</l>
+               <l>the price of all is great.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>All do complaine the world is bad,</l>
+               <l>that helps to make it ſo;</l>
+               <l>And if that I no work can get</l>
+               <l>then I to play muſt go;</l>
+               <l>Indeed my Purſe it doth complaine,</l>
+               <l>that victuals they are deare,</l>
+               <l>But the Exciſe doth grieve me moſt</l>
+               <l>that's ſet on Ale, and Beere.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>Alas, proviſion muſt be had</l>
+               <l>i we a houſe will keep,</l>
+               <l>And for to run upon the ſcore</l>
+               <l>it quickly will grow deep;</l>
+               <l>Our children, they want hoſe and ſhooes,</l>
+               <l>and cloathes unto their back,</l>
+               <pb facs="tcp:49599:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:49599:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:49599:9"/>
+               <l>Our ſhirts, ſmocks, napkins, towels, ſheets,</l>
+               <l>all weare, and goe to wrack.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>The Chandler I do know hath chalke,</l>
+               <l>goe tell him I will pay,</l>
+               <l>And though that I am in his debt</l>
+               <l>I will not run away;</l>
+               <l>Tuſh, let the children bare-foot goe,</l>
+               <l>the weather <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not cold,</l>
+               <l>E're thou ſhalt want ile pawn the ſheetes,</l>
+               <l>or elſe they may be ſold.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>Good Husband take another courſe,</l>
+               <l>for this is not the way,</l>
+               <l>Our Creditors will have their due,</l>
+               <l>or you in priſon lay;</l>
+               <l>And thoſe which now you think are friends,</l>
+               <l>if you ſhould need, or lack,</l>
+               <l>Will all forſake your company,</l>
+               <l>and on you turne their back.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>That man which doth moſt mony owe</l>
+               <l>his credit is not ſmall,</l>
+               <l>To thoſe I owe, when I grow rich</l>
+               <l>I meane to pay them all;</l>
+               <l>My company good fellowes are,</l>
+               <l>and each one is my friend,</l>
+               <l>Hang mony, 'tis but dirt and traſh,</l>
+               <l>and it was made to ſpend.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>Waſt not your coyne for feare you want,</l>
+               <l>and that you ſhould grow poore,</l>
+               <l>Your Hoſtis, when your meanes is ſpent</l>
+               <l>will turne you out of doore,</l>
+               <l>She loveth none with her ſhould ſcore,</l>
+               <l>or any mony borrow,</l>
+               <pb facs="tcp:49599:9"/>
+               <l>To ſuch ſhe will this anſwer make,</l>
+               <l>
+                  <hi>I truſt not till to morrow.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Tuſh, tell not me of this, or that,</l>
+               <l>thou loveſt for to prate,</l>
+               <l>Ile have my humour come what will,</l>
+               <l>for baſeneſſe I do hate;</l>
+               <l>Go waſh your diſhes, or go ſpin,</l>
+               <l>and do not talk to me,</l>
+               <l>Ile play, or ramble where I pleaſe,</l>
+               <l>and ne're be rul'd by thee.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>If you this courſe of life ſtill take,</l>
+               <l>I ſhall not have a diſh</l>
+               <l>To waſh, or any other thing</l>
+               <l>that will hold fleſh, or fiſh;</l>
+               <l>And I may take my wheele and ſpin,</l>
+               <l>but you i'me ſure will reele:</l>
+               <l>Which is the cauſe that I and mine</l>
+               <l>ſuch miſery doth feele.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>What, doſt thou think I will be ty'd</l>
+               <l>alwaies to be at home,</l>
+               <l>And have no recreation,</l>
+               <l>but ſit ſtill like a mome?</l>
+               <l>I am not of that mettle made,</l>
+               <l>but muſt be frank and free,</l>
+               <l>And whatſoever thou doſt ſay</l>
+               <l>I'le not be rul'd by thee.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>If you would ſtay at home and work</l>
+               <l>great comfort you ſhould finde,</l>
+               <l>It would be pleaſing unto God,</l>
+               <l>and quiet to your minde;</l>
+               <l>You might get mony in your purſe,</l>
+               <l>and have ſufficient gaine,</l>
+               <l>The bread is ſweet with labour got,</l>
+               <pb facs="tcp:49599:10"/>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ir charge for to maintaine.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>t, do you preach, is this your text?</l>
+               <l>your audience is but ſmall,</l>
+               <l>The breath you ſpend it is in vaine,</l>
+               <l>go prate unto the wall;</l>
+               <l>When I do pleaſe to work, ile work,</l>
+               <l>when I do pleaſe ile play,</l>
+               <l>And to the Ale-houſe I will go</l>
+               <l>to drive ſad care away.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>To drink and ſwill diſtempers you,</l>
+               <l>diſeaſes it will breed,</l>
+               <l>And thoſe which too much uſeth it</l>
+               <l>have no deſire to feed;</l>
+               <l>It ſpoyles the braine and memory,</l>
+               <l>ſo doth your Indian ſmoake,</l>
+               <l>Which ſtinkes, that all are neare the ſame,</l>
+               <l>they ready are to choke.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>A Foole, or a Phiſitian,</l>
+               <l>thou one of them muſt be,</l>
+               <l>I wonder where you learn'd this Art,</l>
+               <l>you have great skill I ſee:</l>
+               <l>Good drink (you foole) it breeds good bloud,</l>
+               <l>'tis meat, and drink, and cloth,</l>
+               <l>Tobacco dryeth up the Rhume,</l>
+               <l>and Flegme that is like froth.</l>
+            </sp>
+            <sp>
+               <speaker>VVoman.</speaker>
+               <l>Well, I perceive my words are wind,</l>
+               <l>my counſell you diſdaine,</l>
+               <l>All the intreaties I can uſe</l>
+               <l>I ſee they are in vaine:</l>
+               <l>But if you follow ſtill this courſe,</l>
+               <l>and all conſume and ſpend,</l>
+               <l>We all ſhall ſamiſh, ſtarve, and dye,</l>
+               <l>and ſo there is an end.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49599:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
